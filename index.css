@@ -1,8 +1,16 @@
 body {
-background-color: grey;
+ background-color: grey;
+ }
 h1 {
-color: black;
+ color: black;
+ font-family: Arial;
+ }
 p {
-color: black;
+ color: black;
+  font-family: Arial;
+  }
+div {
+ color: black;
+  font-family: Arial; 
 }
     
