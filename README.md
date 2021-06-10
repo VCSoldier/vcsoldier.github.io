@@ -1,3 +1,5 @@
+Site: https://vcsoldier.github.io
+
 # Site is UNDER CONSTRRRRRUUCTION!!!
 Currently a "joke" site, only due to the fact i just recently added contributors.
 
