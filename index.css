@@ -1,6 +1,14 @@
 body {
- background-color: grey;
- }
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 h1 {
  color: black;
  font-family: Arial;
@@ -13,4 +21,10 @@ div {
  color: black;
   font-family: Arial; 
 }
+
+.switch
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+} 
     
