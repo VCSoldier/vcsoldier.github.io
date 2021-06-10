@@ -1,24 +1,14 @@
 body {
-  padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.dark-mode {
-  background-color: black;
+  background-color: grey;
   color: white;
 }
 h1 {
- color: black;
  font-family: Arial;
  }
 p {
- color: black;
   font-family: Arial;
   }
 div {
- color: black;
   font-family: Arial; 
 }
 
@@ -27,4 +17,8 @@ function myFunction() {
   var element = document.body;
   element.classList.toggle("dark-mode");
 } 
-    
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
