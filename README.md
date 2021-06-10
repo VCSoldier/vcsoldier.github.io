@@ -6,3 +6,5 @@ planning to make it a site for my future sbox projects when its out
 if you are wishing to be a contributor please have html/css/js knowledge
 
 if you wish to discuss something in private about my site Vee#6338(Discord)
+
+this is a very barebones readme, i will defo redo it when i have the time
