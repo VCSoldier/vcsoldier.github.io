@@ -2,6 +2,11 @@ body {
   background-color: grey;
   color: white;
 }
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
 h1 {
  font-family: Arial;
  }
@@ -18,7 +23,3 @@ function myFunction()
   element.classList.toggle("light-mode");
 } 
 
-.light-mode {
-  background-color: white;
-  color: black;
-}
