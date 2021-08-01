@@ -10,3 +10,7 @@ body {
     background-color: white;
     color: black;
 }
+
+img {
+  border-radius: 50%;
+}
