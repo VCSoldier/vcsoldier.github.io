@@ -36,10 +36,10 @@ document.getElementById("img").addEventListener("click", function(){
         <h2>Toggle Eyeburn</h2>
         <p>Click this button if you like blinding white pages.... freak</p>
         <audio id="audio" src="https://www.myinstants.com/media/sounds/vine-boom.mp3"></audio>
-               <button onclick="modeSwitch()">Blind yourself</button>
+               <button id="btn" onclick="modeSwitch()">Blind yourself</button>
         </center>
         <script>
-document.getElementById("button").addEventListener("click", function(){
+document.getElementById("btn").addEventListener("click", function(){
     document.getElementById("audio").play();
 });
 </script>
