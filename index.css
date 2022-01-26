@@ -1,15 +1,15 @@
 body {
     padding: 25px;
-    background-color: grey;
-    color: white;
+    background-color: rgb(223, 215, 204)
+    color: black;
     font-size: 25px;
     font-family: Arial;
     text-align: center;
 }
 
 .dark-mode {
-    background-color: white;
-    color: black;
+    background-color: rgb(32, 40, 51)
+    color: white;
 }
 
 img {
